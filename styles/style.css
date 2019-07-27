@@ -1,0 +1,12 @@
+p {
+  color: red;
+  width: 300px;
+  border: 3px solid black;
+}
+
+.poil {
+  color: black;
+  width: 5px;
+  font-family: monospace;
+  font-size: 300px;
+}
